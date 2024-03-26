@@ -26,4 +26,4 @@ for _ in range(500):
 with open("tickets.json", "w") as file:
     json.dump(organized_tickets, file, indent=4)
 
-print("Tickets have been created and saved to 'organized_tickets.json'.")
+print("Tickets have been created and saved to 'tickets.json'.")
