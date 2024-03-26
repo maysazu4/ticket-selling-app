@@ -1,5 +1,6 @@
 import json
 import time
+import file_handler as f
 
 class Server:
     def __init__(self, tickets_file, max_requests_per_time=5, requests_threshold_delay=2, max_concurrent_requests=3):
@@ -13,14 +14,15 @@ class Server:
         self.current_concurrent_requests = 0
 
     def sell_ticket(self, event):
-        if event not in self.tickets_db or self.tickets_db[event] <= 0:
+        self.tickets_db = f.load_tickets('tickets.json')
+        if event not in self.tickets_db or len(self.tickets_db[event])<= 0:
             print(f"No tickets available for {event}.")
             return False
         if self.current_concurrent_requests >= self.max_concurrent_requests:
             raise Exception("Server overloaded. Please try again later.")
         self.current_concurrent_requests += 1
-        self.tickets_db[event] -= 1
-        print(f"Sold 1 ticket for {event}. Remaining: {self.tickets_db[event]}")
+        f.delete_one_ticket(event,'tickets.json')
+        print(f"Sold 1 ticket for {event}. Remaining: {len(self.tickets_db[event])}")
         self.current_concurrent_requests -= 1
         return True
 
@@ -49,3 +51,8 @@ class Server:
 # Example usage:
 if __name__ == "__main__":
     server = Server("tickets.json", max_requests_per_time=10, requests_threshold_delay=3, max_concurrent_requests=5)
+    # for i in range(126):
+    #     server.sell_ticket('Concert')
+    #     server.process_request('Concert')
+    #     print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(server.requests_time)))
+    
