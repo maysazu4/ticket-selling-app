@@ -1,0 +1,3010 @@
+{
+    "Concert": [
+        {
+            "id": "9bbd5ba6-4528-433a-a118-071e4bf8cd6a",
+            "price": 117.05,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "c8a3f301-b29c-4cce-90c7-dee41aad6fb5",
+            "price": 31.8,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "753f4916-31c8-4915-b065-034bc2c2c722",
+            "price": 167.45,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "fffee4f6-667c-4699-b1c7-715f2f067186",
+            "price": 146.2,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "9331a899-cdd8-4c87-a482-7e3ca838da6a",
+            "price": 108.07,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "46a685db-9403-4138-b492-5d0dbe0f3df1",
+            "price": 66.27,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "b837ff59-dec8-4c6f-b84c-bf346cb1c652",
+            "price": 103.8,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "3820067c-9ac2-4db9-a51e-a5879c2174f4",
+            "price": 195.12,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "10973d84-f4e2-46cf-8f76-b51116baecc7",
+            "price": 144.72,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "eb632b7f-befe-4415-a1ae-926c30609bda",
+            "price": 108.8,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "2750e95e-54f6-4cb2-bc12-b5eebc5e378d",
+            "price": 105.33,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "8e7ae48e-6403-4587-a7aa-48eef4cc98c1",
+            "price": 134.67,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "2c85a586-e8bf-4e70-a537-eee638f13714",
+            "price": 69.73,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "9e4b3410-9100-4f34-a056-0795a3bea376",
+            "price": 39.67,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "5d6c323c-5364-47a0-8703-284a76b3de16",
+            "price": 130.2,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "af40faa2-d03d-42c7-b14a-9e878c0b0211",
+            "price": 39.17,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "c37b45bb-4669-4267-91fb-1787dd8d64d1",
+            "price": 82.28,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "ae056c67-2ba2-4dd4-a453-ed647b061ac7",
+            "price": 89.63,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "eb245ddf-252f-4606-b61b-868c0532b14d",
+            "price": 77.4,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "faadf23e-05fd-4758-8eea-5c77ab6f88e2",
+            "price": 150.82,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "056aef31-2009-4190-ac2c-f59c6ac8f5f3",
+            "price": 164.8,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "04cd16d5-d499-4a8e-bccc-fc2664cff244",
+            "price": 116.47,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "16a63058-c93c-4a9b-b6ac-c3e763593d94",
+            "price": 181.56,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "a88f6ae1-d172-4b0d-894d-cea7e6837336",
+            "price": 96.05,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "3016571e-ffb3-43e4-9c0e-20c2c5068076",
+            "price": 41.76,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "1fbf23bc-ef65-4e7d-b83d-3dfa06a930d1",
+            "price": 162.62,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "2d484df3-6925-4ecf-8baa-02bfaf7cbd71",
+            "price": 150.07,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "94f14c48-86e0-471e-8468-0e461e2b7575",
+            "price": 64.6,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "a0bb14a8-ed4e-4458-8ff3-cd043f206ac2",
+            "price": 79.39,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "719f4bc2-eab6-4670-bf82-70b7794cfd26",
+            "price": 20.68,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "950a36ab-bcbf-4b67-bc26-77974cc2744b",
+            "price": 21.86,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "44a13694-8e95-442d-be86-73963be2b126",
+            "price": 28.36,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "626fabc5-560b-4ed1-8dcf-93b0da740c7f",
+            "price": 141.17,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "9039343e-2828-4746-a5b4-86d73e61c212",
+            "price": 69.21,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "0a4291ad-7024-49af-b243-91db8a7afb89",
+            "price": 135.94,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "113af2ed-e015-46a3-9662-0a4e83e7626f",
+            "price": 21.01,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "5775b1dc-7606-419c-8437-342c1b941bd9",
+            "price": 104.49,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "5a1475c1-3de0-4572-b09d-823b788bcc16",
+            "price": 23.32,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "e842ee2e-d81f-487f-b0cc-d6d93db98270",
+            "price": 104.91,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "22e1240f-fa5f-4dc7-acf6-c197ee532d9b",
+            "price": 32.5,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "ed8d2378-009b-4456-a68a-5dc9f8bd46e0",
+            "price": 55.47,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "0ebfef0b-57ad-495c-810c-4d7d124fbab0",
+            "price": 178.27,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "5f189c38-1250-48dd-96db-24ffc7f7f4ef",
+            "price": 27.25,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "26cd7359-f0cc-4216-bbaa-e44344369cb5",
+            "price": 113.6,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "01a016d5-7c13-4b90-a1ae-2dc915e46683",
+            "price": 151.88,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "725860c9-caff-4142-b6a6-27ff6d8441a5",
+            "price": 95.47,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "a33bad00-5a14-454e-9c26-666802da4669",
+            "price": 107.07,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "a263f1f4-68a3-49eb-b836-df8aa08bff24",
+            "price": 198.23,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "01a240b9-4eeb-464b-9eae-8fcf392308a2",
+            "price": 130.47,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "9d55bb9b-c50e-4bb8-868a-e0bcd4bcefcf",
+            "price": 127.11,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "74897bfd-849d-4e4d-aa47-0b01e793bb1e",
+            "price": 35.01,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "3a036e39-0890-4a08-b31d-c11b368c5f01",
+            "price": 84.34,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "b914cc14-555c-4a94-b3be-c228c85ecc8f",
+            "price": 107.61,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "7e1f3b4b-6feb-42e4-8d1a-05aad47e89d2",
+            "price": 132.61,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "1560b948-24c5-4554-99fb-b7374e1d22ed",
+            "price": 43.25,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "82561a7d-9936-458b-8050-e269a587222d",
+            "price": 160.43,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "bfd96aaf-0f21-443d-a18c-97a8a5539582",
+            "price": 156.42,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "8feef26c-02bd-46f4-9739-2ce1d496192a",
+            "price": 194.52,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "903224ac-45a8-4347-b722-04b7d29e8232",
+            "price": 34.88,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "dc0846b2-80e5-487a-9aad-ea57085ab384",
+            "price": 132.96,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "612de79b-311c-4187-8c9a-3bf544ff2d93",
+            "price": 111.6,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "c46da127-a90b-4496-941d-241f90d27789",
+            "price": 39.42,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "22f58e10-3688-4434-87fd-fe14b003a41b",
+            "price": 125.16,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "dcef7384-3713-4d26-bb82-6810735ae7b3",
+            "price": 133.15,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "ef8b1e08-4b9c-4b38-9348-78cf6a5c563f",
+            "price": 24.97,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "c62a4a81-1c2d-45e9-84ea-1f3fed5bc0fd",
+            "price": 51.29,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "c81b39a1-88d0-4053-95e6-1d5ddda75fb1",
+            "price": 135.32,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "7d4fd66c-b86e-4664-802d-66903c252983",
+            "price": 36.78,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "3a56eda4-0a7a-4775-b418-275c969b9a04",
+            "price": 179.56,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "05026ad3-e474-4e23-8b89-1a399fa2ffba",
+            "price": 71.44,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "5f42ded6-fab6-4d48-8869-8d07a66b6474",
+            "price": 30.89,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "2fe8621d-204d-4b75-aa3f-988ddf311c36",
+            "price": 72.97,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "ab713b08-e320-4a11-9fe8-c518e1f42fc4",
+            "price": 160.87,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "274a9717-9ef2-4fd5-9ace-162f0f9a839d",
+            "price": 52.71,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "d5a10bb4-7a61-470b-9bef-44f8ea09a269",
+            "price": 83.14,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "b2d5b9ca-35fa-4983-9403-7271d05ffaa4",
+            "price": 66.27,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "66d30cd8-689f-43f5-9117-f445861bdfb5",
+            "price": 134.89,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "02fec253-d86e-4aa8-a56e-a548f08be69f",
+            "price": 131.31,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "3ebb510c-5a7c-4c9f-9661-79673c2c9d73",
+            "price": 117.8,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "a33b7e92-118b-4cb8-b3b9-0a62dadd337d",
+            "price": 41.71,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "83575551-5be8-49d4-a08e-ba1c4180fcac",
+            "price": 68.21,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "4fae7fda-8b19-4ce5-906b-a2eeeb84fdd4",
+            "price": 20.48,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "693eb1bd-a245-47d7-872f-8145f55f42d1",
+            "price": 136.66,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "d895b12a-9f01-4b87-939a-eb728644f936",
+            "price": 48.83,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "4b43bd7d-e559-48f6-ade1-e74d6138924a",
+            "price": 21.93,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "a56fe391-65ea-49f5-958b-64ccc1d09b5b",
+            "price": 170.24,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "6c519ad6-ad3c-4abe-ae29-6f1b618ff3ed",
+            "price": 37.13,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "1ff0948a-dcda-43e6-beea-f575a0a7463f",
+            "price": 153.02,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "b3a595b4-81b5-45a5-8c39-2e0947c1a798",
+            "price": 102.47,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "e594d105-b044-44c6-8f4a-25abba308a18",
+            "price": 184.96,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "fca7c2fa-4c07-4042-bff6-01734c762f91",
+            "price": 95.54,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "d4794b8d-8d1c-4234-80cb-25f7e96e88c9",
+            "price": 94.8,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "4a55bf3a-9616-4744-8d83-ab6f3e85e093",
+            "price": 102.28,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "d0022a57-36d2-42d0-a55c-de44b57359cf",
+            "price": 102.55,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "4d750c88-7139-4f1d-a895-25ed3ea23df0",
+            "price": 97.75,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "85590894-7319-40d5-8dbe-3e00257ba087",
+            "price": 165.89,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "6dc4217e-0a2b-4700-80c9-1347e40b39e4",
+            "price": 166.87,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "ac5c6b7a-1d97-4f7c-ab7a-dbbc66098514",
+            "price": 177.76,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "539d0978-fc26-422b-a54c-4363b95f6a6e",
+            "price": 90.03,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "1825ff86-8e66-4bce-aa93-4d06927a95b8",
+            "price": 25.22,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "ffc7f334-4ba0-43df-b80d-6022f332e967",
+            "price": 93.3,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "8ff9540c-c943-4339-81ca-120ff1a77310",
+            "price": 109.05,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "4a71a07b-33dd-4eca-9a7f-06290e591e55",
+            "price": 59.37,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "737d1a88-c612-4046-a40e-268ab1568747",
+            "price": 113.68,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "ad3850e7-435e-49c8-8ac5-578d1880bae3",
+            "price": 34.03,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "d5ca2b50-d36d-4812-bcea-10ffd2cc371c",
+            "price": 187.39,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "acd397f5-6347-46f2-8e95-8a8c2a9b023c",
+            "price": 71.75,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "a626283a-c702-4000-94f9-930d18701b8f",
+            "price": 115.8,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "fefd6f7c-5f22-4e53-aba9-a41e2ad68983",
+            "price": 127.76,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "c8d9e1a3-534b-4b2e-b586-86b3f9ebb159",
+            "price": 51.9,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "cfe7d63b-5dc2-49cf-96cf-9b09cd04c798",
+            "price": 123.65,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "062b29ac-7b5c-4f1a-a32f-6a9f8df7e33d",
+            "price": 130.43,
+            "event": "Concert",
+            "is_sold": true
+        },
+        {
+            "id": "06825f4b-1838-4e09-abec-6901ec243b46",
+            "price": 44.74,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "d79f565d-cff5-4868-b3ff-7ebc0c6ef539",
+            "price": 103.47,
+            "event": "Concert",
+            "is_sold": false
+        },
+        {
+            "id": "e45008d7-ed22-4f42-b5f2-1b0207ce87cb",
+            "price": 75.44,
+            "event": "Concert",
+            "is_sold": true
+        }
+    ],
+    "Sports": [
+        {
+            "id": "ac00fa6d-9410-4a14-a511-4593be37457a",
+            "price": 194.26,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "3f10075d-aacd-4d43-8aad-e751891d02de",
+            "price": 130.71,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "a5fcab37-e83a-412e-b250-f833e4dc9d8d",
+            "price": 84.01,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "84c6ded0-2a2a-4a9c-90d8-6d947e8cbf8a",
+            "price": 90.97,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "53693077-975b-4fcb-b3c5-fb21174d7dc3",
+            "price": 47.56,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "18aef870-288a-4e43-8881-bb0e7693cba7",
+            "price": 173.55,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "e9c85a4a-a380-40d0-9223-eacc9693bd84",
+            "price": 183.89,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "d88f55f7-301d-49a6-a182-dd951928c4ac",
+            "price": 195.53,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "39fe46d0-9c3a-46c0-9c19-9cba322003c1",
+            "price": 90.57,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "bd2d4bda-7e66-4f1a-8593-ff6eab5d639c",
+            "price": 191.04,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "96076c0e-4c57-42d6-a3ea-ac5d504fadee",
+            "price": 159.62,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "e53b3264-3663-4d01-a2db-48f975951d5a",
+            "price": 69.46,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "38365a91-fdbd-40be-bc48-ceecfc03d158",
+            "price": 124.44,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "9ee2795a-a932-4a4d-8100-a77ffd4681da",
+            "price": 119.38,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "f6cb9bcd-1bd9-4023-88cf-bd96ad27d271",
+            "price": 111.51,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "dc02fd67-31d2-4116-884f-f6873afd32ff",
+            "price": 99.51,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "b859c72b-5f97-4910-9a72-65d600412be2",
+            "price": 55.04,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "da8438ea-c20a-4211-9c22-64f4975b8f89",
+            "price": 126.91,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "4f24c004-1949-4e3c-a6a1-c04260ad2196",
+            "price": 126.88,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "19a63707-b32f-43db-91b6-f20a002f578a",
+            "price": 77.29,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "6cc16341-1acf-4a6d-93e4-2ab0b1ae3ad4",
+            "price": 187.34,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "d780f5c4-ffd5-413e-a5ce-5acbdb30e9fb",
+            "price": 38.02,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "6a9b30f3-a53f-4cbf-a08e-17318da95838",
+            "price": 95.63,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "06675a28-5d45-4097-b63b-65612e465960",
+            "price": 30.74,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "471ff924-bf9e-49c4-adb5-ef7ae8d47937",
+            "price": 160.59,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "602d61ed-52ec-4adc-aa19-b7661085b8b1",
+            "price": 90.69,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "42561de4-d805-4bbf-b7db-2c2d0e0e054d",
+            "price": 108.98,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "f55df602-264f-4161-a500-880770a42258",
+            "price": 70.61,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "6bc2b974-fefe-4829-ba31-bceebf4b0068",
+            "price": 62.2,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "41998794-14bb-481c-bf84-7ba9e84d487a",
+            "price": 79.86,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "46334c81-9567-472e-ba72-f46c237845ae",
+            "price": 118.04,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "7b5d67e2-5552-4316-a3d8-326eb456b59b",
+            "price": 54.79,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "b0765dc9-7a12-4ae1-a23b-56f6f5404f9e",
+            "price": 44.91,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "a324e720-833c-48af-9041-dda0d277688a",
+            "price": 163.18,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "c04ff227-f154-4de5-b9d2-468a87b1ef23",
+            "price": 87.92,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "74c23296-379d-4bd8-a51a-a9efc2ee4812",
+            "price": 80.11,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "85807061-58da-4599-aa57-55f8af762311",
+            "price": 29.34,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "8c2e20b8-3e9b-4736-90a4-418dd6ed2b6b",
+            "price": 178.91,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "20ab6a6e-6011-402f-9436-4586643a6e8a",
+            "price": 88.26,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "77220a67-8aaa-4c78-a12a-e5cc133aedd1",
+            "price": 23.35,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "83ecab75-8e3b-47ae-93f4-01251b3aa746",
+            "price": 186.96,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "3bf354f8-2b60-4d06-8c15-dcdbb3826373",
+            "price": 26.64,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "5fc0a9fe-e498-41bf-ade6-12cd816d7931",
+            "price": 114.94,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "53b34e09-d8f0-4bfc-ab33-1427015dfbe3",
+            "price": 69.68,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "415b33ed-fb71-40a1-a6f2-79f24823d566",
+            "price": 57.89,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "2846fe74-1308-4001-9476-642b262522ed",
+            "price": 128.13,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "f1315888-a7f1-40af-aee7-9d57d1bbc268",
+            "price": 43.2,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "1c9a6e6c-5f25-4029-afd8-98654038f98c",
+            "price": 88.27,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "ebfd70c6-f701-43f0-a8ea-a508b9afdba8",
+            "price": 153.33,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "3a592ff2-939a-4694-b85a-52269b50ce1d",
+            "price": 190.16,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "23595a45-7d11-4357-86c5-589c9aebd1cb",
+            "price": 50.96,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "ab19373f-ac13-408c-aa54-963e2e967ebe",
+            "price": 53.78,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "86e4bbc4-1b21-4a1c-b400-aee09ec86da2",
+            "price": 133.88,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "fa048ed4-feb2-4d25-9cb6-685dc2f2eeaf",
+            "price": 25.8,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "2ee66ecc-ef64-4c28-ac55-fbc191f4f43a",
+            "price": 42.24,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "04296482-4018-427a-8e04-799f451cf07f",
+            "price": 109.3,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "91f207b6-ae2c-4881-90ac-827b40757694",
+            "price": 178.96,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "4153a777-43d7-4770-a199-454d3119f09f",
+            "price": 118.2,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "4d051a63-8e8c-4136-823f-8796da225406",
+            "price": 194.46,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "260ac912-fbd7-43b3-b4aa-bf59fbfe89d8",
+            "price": 100.01,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "3e5893aa-45be-4fc0-ace1-c6bceaed0535",
+            "price": 45.02,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "5ae10621-e1b5-4fe7-91ff-9b9ec19dc5d1",
+            "price": 115.02,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "5beee3a5-6791-4643-bed1-f84175a50498",
+            "price": 90.4,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "4b3f46c7-35f3-42c3-9172-625f458db084",
+            "price": 91.19,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "d5bb0035-ed51-49d5-9a80-bea40430711b",
+            "price": 111.83,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "210e65e0-986b-420d-9680-ce60beb74545",
+            "price": 198.68,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "bf471a75-25f3-4dbf-b53e-415a81f0d232",
+            "price": 103.07,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "7a3dd504-bbb8-4d7f-ba78-a04bc8bc1a5b",
+            "price": 180.13,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "287d1c3a-b8f9-4321-92a3-e8015ac93569",
+            "price": 47.63,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "1a38d008-782d-464c-b929-07f1fc9625d0",
+            "price": 144.59,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "7b5756a4-d87b-4626-b96a-fd100d77b466",
+            "price": 177.74,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "330dba50-78f0-4c83-b2a2-c9c6d36678d0",
+            "price": 74.62,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "b20816a6-7289-4ef8-844e-64ee00856550",
+            "price": 171.85,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "4d8233a5-9c88-4aec-af87-3754d328a667",
+            "price": 76.87,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "49473b82-27e5-4d49-be93-b4ad3d5c0ddb",
+            "price": 29.87,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "92e21971-e28b-4f76-a223-789cfd3aa74d",
+            "price": 145.82,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "fdb14152-a054-4128-aad0-6c3a0b8424cf",
+            "price": 169.5,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "47984dc0-4550-4331-bf65-893a45f186b8",
+            "price": 151.07,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "1635354f-9b70-47bb-a79d-8041964b3de3",
+            "price": 36.18,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "362a5a84-6b63-44d0-a478-026c9a957123",
+            "price": 173.24,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "29bd219f-e705-4ac8-bede-b73cb6159b67",
+            "price": 101.57,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "25a08b3f-9135-4bf2-a373-f0392e34916a",
+            "price": 174.89,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "13bc7520-fc0d-4dc5-b6d4-1c5df0fa9423",
+            "price": 178.18,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "76e12f38-bc2d-4a5c-89c6-8fa8f203a54c",
+            "price": 72.06,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "502fd116-ebd5-4f11-80e8-1a6b982b794a",
+            "price": 198.16,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "b8a4bcbe-7d40-49ff-8398-85795c674e4e",
+            "price": 115.68,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "40a82f2b-b9d1-477d-b44b-5378e309192e",
+            "price": 47.06,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "cc23e873-01b8-4a00-a1d6-75b4be25409c",
+            "price": 181.47,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "f1444d4c-36bc-4a3b-97cf-57faf9da98d4",
+            "price": 101.25,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "3d6cb552-410f-4a71-9fa9-6f341d64dd37",
+            "price": 170.74,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "12954053-d2d3-48fc-9256-38ba7de3ecda",
+            "price": 124.12,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "bf5f5d88-af7e-43eb-a68b-a52353b4dc27",
+            "price": 173.37,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "bc30a502-3be4-4bc5-bffd-1458a337be0b",
+            "price": 88.35,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "cff42701-2f17-43b2-b9c0-f7cba510c11a",
+            "price": 23.17,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "e03b08cf-7e82-438d-99a3-90a5e5b43f3f",
+            "price": 184.81,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "5592eaea-ccb8-466f-b920-52b2824d6afc",
+            "price": 125.13,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "943df360-527d-47a9-9117-5daa3dd5b1f1",
+            "price": 181.94,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "2b043420-1583-406d-b0ed-171ba6727ee5",
+            "price": 33.14,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "4efd2010-9355-4f42-b24b-86300a629b9b",
+            "price": 169.08,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "5add45b2-6f01-40ff-b837-d4a1ff732662",
+            "price": 118.55,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "c44afb93-4684-4197-be15-94f0f68e0355",
+            "price": 41.72,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "7fc48205-eaeb-4de0-9853-ec9e21c8635e",
+            "price": 169.46,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "2971034f-ffb2-4b1e-bf21-55660fdec389",
+            "price": 189.09,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "ca885bbd-11a7-4f5a-b2aa-e484c1963f88",
+            "price": 118.58,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "fca00734-4910-4740-bf87-1aec708c6bee",
+            "price": 160.81,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "f6c4df58-3de5-4d90-bc11-d1ecd92733ab",
+            "price": 170.18,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "ec990f33-3c6c-42ed-9f4a-f9c4de13a9a0",
+            "price": 155.4,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "be7d4a5b-1b63-42b2-aff9-d1da0e840fa9",
+            "price": 193.83,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "eacaec51-2dfc-4338-912b-4fb9286edc2d",
+            "price": 116.6,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "7f40d18a-66a9-47b4-917a-e6ab1a339eda",
+            "price": 93.85,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "605bc784-675d-4c40-a67b-3dc8b0b7d67f",
+            "price": 173.19,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "858f1462-d45c-4730-94b0-c71ede0a6c47",
+            "price": 70.89,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "0dcdfe6b-b623-48c6-a55b-98cd41bb5fcb",
+            "price": 190.42,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "f7e59483-16fb-45ff-b3eb-34fdebad0178",
+            "price": 49.88,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "5b1bf6f4-1482-4e78-a7ee-4f7c1387147d",
+            "price": 178.37,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "8b6bfc14-02f7-4d5b-bfe5-9e2b8b360270",
+            "price": 93.29,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "cf4d6e53-5e08-41c2-ad83-04d2737c212c",
+            "price": 124.25,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "3a72c48c-18f7-4804-8363-198712a5f089",
+            "price": 155.88,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "42f85108-eef5-4278-af4c-2821ed2ca24b",
+            "price": 61.11,
+            "event": "Sports",
+            "is_sold": true
+        },
+        {
+            "id": "701d6ff2-84b4-45e6-a1ca-b1e99dfb321a",
+            "price": 78.42,
+            "event": "Sports",
+            "is_sold": false
+        },
+        {
+            "id": "2c875295-81ab-4303-b05b-ee124bf5c160",
+            "price": 175.35,
+            "event": "Sports",
+            "is_sold": false
+        }
+    ],
+    "Theater": [
+        {
+            "id": "b06ec185-29f3-48ee-ba19-aa0c92ff1b79",
+            "price": 72.48,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "a2fedb48-e4b6-436e-bb25-b78ae15da35b",
+            "price": 133.28,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "d67867b8-fe2f-4d87-b36f-cd2cc4831e2c",
+            "price": 31.18,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "c7e48fc8-5164-402a-bf4d-7384790f3d29",
+            "price": 94.99,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "a3ca311d-70a5-45f7-896a-543077bcfc8a",
+            "price": 178.38,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "9fcf69c8-9da3-4356-ba3a-84cbfb668784",
+            "price": 80.54,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "e47dcdf6-31c6-4527-b4c6-1e4056cffa42",
+            "price": 171.18,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "30871705-9307-4c6f-b0b7-1d3182625419",
+            "price": 21.72,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "2d45ca0c-6cf3-4ad1-a04e-722df2c6d68a",
+            "price": 136.89,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "4f475bee-ed36-4700-ade0-e570a30af4bd",
+            "price": 164.32,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "10371114-31a4-4bf1-b82c-aea5fb5d33e5",
+            "price": 24.83,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "f561e630-d839-4567-858e-0ec6da043c06",
+            "price": 182.59,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "eea59104-2e8f-4f07-b96b-b2756cc28541",
+            "price": 37.26,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "6f787f96-8331-4da7-acce-5c1b7f288a46",
+            "price": 181.15,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "67943300-a6b1-4150-a6f9-f4861d18c97a",
+            "price": 64.49,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "f8912ea6-be6d-48d0-96b5-71ba196e1796",
+            "price": 87.73,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "fa8bca38-bb8d-47c7-a724-007869b55183",
+            "price": 124.84,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "ed20c5de-cffa-48ca-bf91-f1bc51f5e989",
+            "price": 186.82,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "f56cfd01-ee46-41f3-a64e-152f2a1d78e3",
+            "price": 115.27,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "86d452c4-e0f4-4a47-b3e1-c42eb258d734",
+            "price": 114.46,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "6bee57b8-d68a-4df4-852d-263889da033e",
+            "price": 188.5,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "3d483c5e-d5ce-474e-bf48-9a21dace8c62",
+            "price": 95.96,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "ad84e268-e358-4200-affb-ea0dd1b79ce6",
+            "price": 86.71,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "fe3b93a2-c589-4d4c-9a1f-281b7bd3cdfa",
+            "price": 81.83,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "09f0c6d4-ade2-4bca-a8d4-e570697f9597",
+            "price": 137.35,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "adceb8d7-3f0e-4143-8015-497a1ea0b14e",
+            "price": 183.64,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "18ab53f0-ad34-4cdd-9b88-db85f050e25a",
+            "price": 197.41,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "9f7a96df-a55a-402d-b896-f6610e343761",
+            "price": 38.21,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "565f6105-65a4-4d23-b136-4d25aab588ad",
+            "price": 84.08,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "27860b45-7189-4984-b785-0f749108d509",
+            "price": 46.16,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "09391d8f-1599-41b7-8d73-1c39fed2960b",
+            "price": 104.79,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "c99ba511-84a1-4330-bca5-e3067524c497",
+            "price": 32.14,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "524da2a8-d255-44b7-93c2-9d795930bc84",
+            "price": 104.19,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "223f357c-cb71-44ad-a04e-d6bdca061825",
+            "price": 120.26,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "f78d5b34-f6a1-41f1-8783-40d77e5ce9b0",
+            "price": 195.64,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "380b0afa-5073-40a5-97f3-61170fcd3dee",
+            "price": 104.69,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "a8bec899-1869-4159-bf9f-885a2081003b",
+            "price": 119.84,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "f7b17d88-b136-4206-9258-781c17d32c49",
+            "price": 32.08,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "691d4910-b22f-4ff2-a246-1cbe1a2d6c3c",
+            "price": 46.01,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "caf4e7a9-bf3e-48e7-8d1f-ad2ae082c1aa",
+            "price": 187.34,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "845f0060-180d-4957-b914-9988fdc13923",
+            "price": 146.27,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "54697156-94a1-41f2-bcfa-4fd2fb94d04a",
+            "price": 126.69,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "5cd70331-3682-4dd4-a4ea-22ef0bb7123c",
+            "price": 56.03,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "37507442-4a7f-40bb-adb0-51f8f069c590",
+            "price": 178.11,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "2fcc4127-9260-420c-881d-36364538cdf4",
+            "price": 195.45,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "4fa5b6f0-9a42-452c-93aa-f0df8b6af282",
+            "price": 107.75,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "383ff38e-6534-4f56-aa48-ad00a3d0afa2",
+            "price": 90.78,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "6fb143c5-9b08-4bb2-b4a1-3409b3d2cea9",
+            "price": 59.68,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "1a49e9b2-6a5a-4be0-87b5-03309d6c6c5e",
+            "price": 60.57,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "b7175194-0c9e-4e68-9540-f39471794bb5",
+            "price": 80.83,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "301c66d4-4e9f-40f6-98f7-dace0e4bae0b",
+            "price": 195.27,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "6cd8937e-ef88-4bcc-b1fd-3666dad290cf",
+            "price": 106.26,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "0034ca4f-2bfd-43fc-be8c-13d841e82a67",
+            "price": 105.17,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "d2f84221-7ade-4b59-9636-1da5a2b1cfa3",
+            "price": 157.35,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "067d239d-9a2c-4545-99eb-2f7714f23aff",
+            "price": 154.96,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "a2510b7c-d9b9-4fa8-9484-973c5d7ccc81",
+            "price": 37.87,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "e92cc3ac-fb85-42e0-91f8-6d39252a0c61",
+            "price": 198.15,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "8938bd92-82e9-4972-b055-08847d09f139",
+            "price": 109.29,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "322aefb9-88fb-4aa4-ac45-cf992f94e3a6",
+            "price": 107.19,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "61fff788-cadc-4a70-ae9e-8500791559ba",
+            "price": 132.36,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "b8685624-2a39-4649-8926-f9702e5303eb",
+            "price": 38.28,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "20ade8e9-82e3-48d5-89a3-bdf8c80f53fd",
+            "price": 77.65,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "6a7705fb-1120-4d3b-b6fb-439acfb98997",
+            "price": 133.04,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "b8e0d944-5d88-4cfd-9b89-b08918e46a49",
+            "price": 106.07,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "f6fa0ec3-f946-4b6b-bee0-b6ac08abacb4",
+            "price": 113.33,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "35ee7879-7088-4d2a-9735-9a3c1e15b5b1",
+            "price": 60.57,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "73370a41-dcf6-4cb3-be20-550978be8666",
+            "price": 147.28,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "504c33d6-551c-4c95-b0ef-84272f203eb0",
+            "price": 73.09,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "f3b123c4-c9d7-44a8-a0de-30c1349a2fd5",
+            "price": 98.67,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "a31914f3-9d2f-4114-8ed8-6ff4f17fe19e",
+            "price": 127.48,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "54f79f4f-6dbb-4ba3-9465-54c8a63aa3e1",
+            "price": 190.35,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "5f9bbfe8-454d-4c11-a6d3-dc6034e89a73",
+            "price": 136.46,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "d675936d-7bf1-44dd-b86a-479c06654152",
+            "price": 147.01,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "0f25a25d-c8bd-4207-b4c9-d9a7f9581392",
+            "price": 198.01,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "ad9c6ecf-801e-4913-80b3-415da0589905",
+            "price": 108.65,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "2f2ddbcc-52ff-44ee-93d5-2a5870514383",
+            "price": 66.78,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "1f9548d3-e87a-49e9-94da-2b3327caed1a",
+            "price": 173.74,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "84d765ed-b22d-4fed-9ad0-bd641337b13b",
+            "price": 32.16,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "7a34b49d-ef61-4b87-b0ac-5adfddf90374",
+            "price": 149.28,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "5811ac43-0db3-4000-83a1-a5e35e3c54c0",
+            "price": 134.09,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "e70b9ec2-578a-4c61-a2a6-3c3ec5bca2a5",
+            "price": 106.27,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "82dfdec6-0f0d-4408-a6ef-db55578ca51d",
+            "price": 97.17,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "d8644e4d-e602-47c2-b06a-82fd4321250b",
+            "price": 166.44,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "d91bceb8-9c3a-461b-85ab-30c72fc8d798",
+            "price": 176.19,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "87a7b36f-5747-49f6-9d41-3956b36f1447",
+            "price": 62.46,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "b804bd30-fd11-48d0-9615-791e1806091a",
+            "price": 130.73,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "18730403-6c7d-4fa9-8e49-cd0ce30065d8",
+            "price": 132.49,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "b24f15a8-9954-48e7-9eda-ade5068e2cd3",
+            "price": 97.76,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "fefb11db-5a20-484b-8a23-f392d8e3ce46",
+            "price": 85.95,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "0875c316-7451-4fd7-a472-7bcaa9bd8397",
+            "price": 191.14,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "be177e8e-ddca-4816-8e96-37c9c45482ae",
+            "price": 37.85,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "82188d29-c553-4a48-96d2-15a97c27d4e7",
+            "price": 21.75,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "b7004c0a-763c-489f-a211-1610ed7fd323",
+            "price": 139.44,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "2a31d981-4b43-48bd-bf9f-392916e195d6",
+            "price": 90.34,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "95e40136-8fc7-4775-9fbe-5b22a888028e",
+            "price": 107.42,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "c7f06688-bf60-446f-ba08-cfe143cb9b14",
+            "price": 135.47,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "e9ae9736-912f-42fe-b2fa-ea3907b5be04",
+            "price": 91.59,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "4c182c1b-a437-490c-a161-2e32cc0c1cb5",
+            "price": 34.78,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "b2df6d9e-b595-421e-b732-2b593e28cbcc",
+            "price": 194.41,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "1a1d4e09-2192-4af9-8cc5-2ccf66f317e3",
+            "price": 29.92,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "20db568e-de86-4860-88dd-7382f4cc54bc",
+            "price": 121.09,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "e03b6bf8-3769-4f71-bd4a-30a067b03004",
+            "price": 108.68,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "35b27849-7d44-40d9-9678-9edaaec3e652",
+            "price": 20.71,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "79611b10-d15d-4714-966f-131c5ec1bb40",
+            "price": 161.08,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "06c85dda-9511-4247-9e9f-d998e69af2f8",
+            "price": 166.31,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "27731f6e-e321-4090-8408-b578a87c259d",
+            "price": 94.36,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "69984461-b8ba-4027-80bf-62eb859324c0",
+            "price": 147.03,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "77c657e4-c6f2-4954-9560-3ee2535484da",
+            "price": 68.73,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "ab7f413b-0790-4f34-b674-2ca7dd9f0d77",
+            "price": 21.16,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "845aec31-877f-4706-b3b6-10cc38e82404",
+            "price": 92.66,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "a26a0309-d302-43f1-a8d4-dd0810158e67",
+            "price": 48.23,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "c7a6c76e-26dc-4670-b5df-8bf94be0df1a",
+            "price": 183.99,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "56f74814-3260-4be0-ae4d-56c0e40ea521",
+            "price": 68.68,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "e4fdd66c-9806-44fa-ac0f-170d5135e963",
+            "price": 71.87,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "058985c5-9461-4768-8915-762a0cb6c58d",
+            "price": 76.16,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "8d0a047a-aef6-4be5-a7d0-2c264aaf8fe7",
+            "price": 21.29,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "2fef362e-1645-4937-8f99-f57bd9b9eef4",
+            "price": 43.99,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "89228778-c15b-4676-9b3c-f84e8b3a696f",
+            "price": 149.98,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "1d10d3a1-a8a2-4f0d-b872-75809b27677f",
+            "price": 88.07,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "4a21b152-a81a-482c-9b31-6978514ff650",
+            "price": 74.91,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "ca14ff69-b171-4c31-9ff3-2b33f3650f5c",
+            "price": 58.9,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "2cbe6013-e6dd-40d5-8683-ca1bffeee2e0",
+            "price": 146.0,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "7a1fb33e-710e-44f9-baee-09df37c53372",
+            "price": 88.22,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "c733f836-c283-4ca2-9374-7d6c04f1d03a",
+            "price": 86.5,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "f439d822-6a7c-4273-a26c-9093209004a4",
+            "price": 109.92,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "78061c2a-735f-4df3-9b5d-8afbb38cf903",
+            "price": 129.3,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "199d3ca5-3799-4351-8cc4-49da6882ae5d",
+            "price": 28.1,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "b881b674-3daa-476b-9005-0059dfb59380",
+            "price": 38.54,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "e975a664-0597-40d1-b20d-014be989f512",
+            "price": 158.97,
+            "event": "Theater",
+            "is_sold": true
+        },
+        {
+            "id": "69169ae5-7473-46cf-872e-b4c32c600dbd",
+            "price": 39.47,
+            "event": "Theater",
+            "is_sold": false
+        },
+        {
+            "id": "28a9f0b0-dfae-4fb3-bf7a-7bb5f7bd0ecf",
+            "price": 56.51,
+            "event": "Theater",
+            "is_sold": false
+        }
+    ],
+    "Festival": [
+        {
+            "id": "6ec8fd46-887e-4e60-8696-ea0028b01df4",
+            "price": 187.46,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "53cd103c-cf61-4140-b744-4cfe04ea58a5",
+            "price": 78.08,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "20bfec31-eb03-45fe-89bc-4ea6b07ca739",
+            "price": 125.56,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "d10fd337-27d8-47b8-885a-22a3ce09528b",
+            "price": 128.83,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "c72b48e6-e652-435b-b433-cc0f4cbf1d90",
+            "price": 154.51,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "760a3c7d-b004-4d85-91ac-08c07a97d1e2",
+            "price": 131.47,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "7fc0e371-38d0-4153-8a5d-3e76c96b2041",
+            "price": 125.08,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "2b95a3df-a274-40f9-aa5a-3e36e4e7ab0f",
+            "price": 165.7,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "6a884e21-360f-4517-b804-5411b252f231",
+            "price": 102.76,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "266718de-aac8-4176-b064-6b12c305d207",
+            "price": 169.22,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "c7b58098-34b2-476f-8648-438fe32594a3",
+            "price": 154.01,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "ad6f5881-ef3d-446e-bb79-2287d48aa0ad",
+            "price": 73.84,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "942196fb-e315-475a-914b-819f4d736b48",
+            "price": 61.4,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "13bb2310-eb1d-4814-a131-808bed9a53b9",
+            "price": 90.49,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "ec6ce19d-e8e7-4785-8b46-c03ae7122c0f",
+            "price": 27.37,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "37f735ec-9866-442c-9cda-091fa313c172",
+            "price": 159.46,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "f9e8695e-a298-454d-9c34-8b5aa272a6e7",
+            "price": 188.67,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "f39ab1c8-ede4-4bbc-8a0f-a24f7b94abd1",
+            "price": 48.29,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "8f8010c1-935a-4f7a-92e0-738b70c842b7",
+            "price": 36.92,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "0496c042-794a-4245-8593-99034e620f20",
+            "price": 111.06,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "6ca41cab-40e7-4060-9d6a-fc2d275b21ba",
+            "price": 41.91,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "2de29cf6-c18e-480c-9634-e937949a66c7",
+            "price": 44.2,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "0ff40943-a089-486a-bad3-a87aff624f07",
+            "price": 26.39,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "62fa9538-f505-4a16-a921-816826ad922e",
+            "price": 40.56,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "8de25215-a1a9-4c9e-8579-6835f4ead735",
+            "price": 197.45,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "0c75d3dc-f61c-4782-b832-fdcf14eafb4b",
+            "price": 188.19,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "707b8a29-af56-4540-8661-1b2769fe7f2f",
+            "price": 160.37,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "a2e30f60-a4ac-471c-b723-38e546b8ac66",
+            "price": 30.24,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "04f38b7e-24d3-430d-bab3-8cc5940e4f35",
+            "price": 22.67,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "26ccb33d-8f68-4556-83f8-63cf6688cc84",
+            "price": 34.55,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "a6449ac0-00d5-493d-bcf7-d1c3cc525f59",
+            "price": 189.93,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "3df01c35-e22f-4c81-8d18-1b2475ae9e9f",
+            "price": 36.45,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "e9b83f3c-ebf2-42df-95eb-ad26fe89ddc5",
+            "price": 165.09,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "a7c54c98-6ce3-40dd-ba5f-d2fdec660797",
+            "price": 36.29,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "fb65e9f8-3ad3-429d-8ce6-5d47c1d79efc",
+            "price": 117.7,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "e9a0da31-a3b6-4568-a332-f6f773a7eab4",
+            "price": 183.04,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "a37d54e9-2781-4918-8eb6-fe10453efa5e",
+            "price": 24.65,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "133d21cb-a577-4151-b1f7-35bd979fc4f8",
+            "price": 43.42,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "b0f96e57-3082-4aac-8e67-a53a8ab2a32a",
+            "price": 133.49,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "841ce745-cdac-41a9-b420-f8d7140716ec",
+            "price": 86.92,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "47e41316-29d5-4529-ab2d-1db10878b291",
+            "price": 199.96,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "15c92a42-50e0-4591-b517-f9d3ec2c3f6e",
+            "price": 181.63,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "0a7aa298-b6b2-49a6-aa0c-a03e8b31254b",
+            "price": 60.94,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "5a1491ec-047e-47df-8c94-fc974400ebe7",
+            "price": 93.59,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "c6d165c7-a777-4802-9b6c-9a36048258ee",
+            "price": 32.08,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "4b6063f3-d568-48e6-b161-b66f682e5357",
+            "price": 55.32,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "52d3a474-586d-4377-bbdc-5883cce1343e",
+            "price": 125.55,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "c576176b-c729-4e8a-a310-3e2d6e47f7de",
+            "price": 176.45,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "252287aa-cd2d-46df-bf69-d87441c21aa5",
+            "price": 137.48,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "eeecf0e0-a1a3-4674-83cf-a03dab79f2c2",
+            "price": 189.18,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "2d5fcea8-78c5-417b-921d-bcbce84b332d",
+            "price": 130.12,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "3759a56d-f8f9-4d4d-970f-bb738fd59113",
+            "price": 174.52,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "b4381e23-a105-42f0-9b79-ba6b1444c588",
+            "price": 153.52,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "24a37620-4fda-4858-a3ea-ee0e77791521",
+            "price": 174.82,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "bbd90136-7a0d-415e-80ca-d74d6eaffebd",
+            "price": 175.0,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "6ca2bf42-0656-4103-b8d6-074c179a008c",
+            "price": 22.01,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "ccf4c8e3-81a4-4ab8-a7b9-a677c423f9ec",
+            "price": 139.13,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "c24d204e-254c-457e-a4f4-aab705c22bd3",
+            "price": 156.16,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "596b2f6a-eb5c-4f40-b851-598c7d4a5b63",
+            "price": 166.9,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "79776019-b357-4710-9626-1dc6e1f03942",
+            "price": 158.74,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "ef5a38c6-f980-4f9c-8b16-6716060ba03b",
+            "price": 52.99,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "8b0afe72-c2cd-4674-8ce4-920c167cb1a5",
+            "price": 41.11,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "66788330-b7f2-4c53-9a78-53fd4cb6de76",
+            "price": 167.98,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "4fa048f2-b39a-4fb8-b271-c2d7033d3023",
+            "price": 25.54,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "d88296f9-4ca5-46e4-9f30-34f5d20d098f",
+            "price": 45.44,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "321b0284-6d0f-4a55-9a61-9908f0268ccf",
+            "price": 151.47,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "14875699-046d-400e-9994-77db092f0ff8",
+            "price": 112.45,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "ab0142b7-9b78-4abf-bbe6-4b2d15359f22",
+            "price": 55.56,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "55eb6549-8843-4e49-a2ec-c588b8b2c6ea",
+            "price": 143.67,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "c8cda71d-5bce-4b30-a91a-6e403ceba547",
+            "price": 47.64,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "f9b153a3-bf93-4f90-9c10-9e17522cdab9",
+            "price": 81.98,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "5b6f03cf-f913-4d58-8ce2-52dcc026539b",
+            "price": 147.65,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "c82ffc2e-5c3c-4897-b267-e061da7d3687",
+            "price": 152.65,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "ba678969-c476-4403-9b1e-93cfefa94cf9",
+            "price": 56.12,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "70a58840-d7ca-4695-a56e-b14a893d4bda",
+            "price": 67.41,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "3d33b604-4a29-4359-821e-04474710877a",
+            "price": 72.89,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "4a1457b2-eb0c-42fa-a3eb-70d591838f34",
+            "price": 130.12,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "c4330d79-c9e6-4eb0-b91c-ea304d6377bb",
+            "price": 199.88,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "1a44fbae-5762-4bbd-ae97-49239afb2e11",
+            "price": 128.36,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "1bbc01da-7ab7-4bf0-af78-b97e88e9f97a",
+            "price": 57.66,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "1a4d8668-adbb-4c20-8166-b88908a4c806",
+            "price": 175.19,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "c49deef6-18b6-4cb3-b015-a3899bd1b590",
+            "price": 144.0,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "7c8df78d-6aa3-446f-b967-78e02345d092",
+            "price": 44.74,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "f393da51-bd70-41f4-ac0c-52ec757497e3",
+            "price": 154.33,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "7fd47cd4-65af-4f9e-9b42-575f06d9babb",
+            "price": 77.25,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "b0d7eb8d-7241-4115-ae05-0cb754d87655",
+            "price": 28.04,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "7c7c093f-a5d5-4f4b-923b-cac517767a83",
+            "price": 65.59,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "cbe4601f-178b-4de4-9df6-31948a73067e",
+            "price": 48.06,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "28155de3-b417-4301-9301-79c79a95cb63",
+            "price": 92.05,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "40b932b4-f375-416a-a0cb-e5016664b262",
+            "price": 33.14,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "61a4fccf-8a67-4871-b1f3-ef851eba833c",
+            "price": 117.66,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "9de9374a-7116-45d2-a214-1970839231b9",
+            "price": 183.49,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "d5a8a1fe-2106-4376-ae04-40525e553bcb",
+            "price": 125.71,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "ff41b699-fe9f-4507-a361-da7a6f6bb097",
+            "price": 32.06,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "951dcff2-2563-4bd2-9871-563e35370a08",
+            "price": 169.58,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "0da82a29-d1f4-4226-8efd-9c9f617a0eca",
+            "price": 148.64,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "cfce51c1-95cd-46d9-8934-ce2fd2d0e20b",
+            "price": 68.99,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "feac0987-493d-48a3-8fc9-1709af3355aa",
+            "price": 193.75,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "bfb7ccbe-d9c7-4156-95d6-63169e70e82b",
+            "price": 40.74,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "866f8e52-36c9-468d-940a-3c3fe9bf7787",
+            "price": 29.78,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "d55becbc-ec1d-4c01-a83a-f697ef8f052f",
+            "price": 136.83,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "0d612429-1d29-4351-ad81-b8e9121db7e5",
+            "price": 34.82,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "dc850527-7461-462c-9814-1fb77e9f1698",
+            "price": 107.69,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "79547edf-f7fc-4ce8-bb36-ceb6c751b741",
+            "price": 147.71,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "af746312-4766-4f03-be97-e3125b4182b7",
+            "price": 62.9,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "b4671678-a5bb-4342-993b-3010a39d8378",
+            "price": 89.58,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "bce229d1-a4fa-4c65-a63d-aabbd7f2c48d",
+            "price": 153.73,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "2540a3b6-a677-46a2-ba88-3ba79ec1cd34",
+            "price": 101.6,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "8f56dffd-3a8e-4d1a-ace0-8b0b6eee6b4b",
+            "price": 146.8,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "70f68614-1d86-473d-b987-788b84c43465",
+            "price": 132.26,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "b9ec6c9b-1984-4f67-9a75-7106b46951d7",
+            "price": 23.81,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "09d03d9f-709c-4982-b3a5-dcfce910f22e",
+            "price": 50.33,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "bf154500-7dba-4891-8379-02bcf9cfdf70",
+            "price": 162.44,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "240fa468-b323-4d6e-a10a-6139fc7dc183",
+            "price": 63.66,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "3205e457-8dc8-4c23-87db-0c8a3e563f27",
+            "price": 39.36,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "68a663e2-2dd6-4f36-9be8-aa7efe2c011d",
+            "price": 103.98,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "ca5664c7-b24e-4130-87b7-ebcda196838c",
+            "price": 55.14,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "9edade8a-b2bd-485a-ba90-4e2fc214eaab",
+            "price": 199.07,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "720dda2e-0533-469e-9e58-f604231fab25",
+            "price": 82.36,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "5070aa8f-67be-4345-92d3-2ba1f8786ac0",
+            "price": 79.16,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "c6075638-9e61-4497-91b7-c2ce3a0de941",
+            "price": 89.03,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "41eb78cd-ffd3-43f7-a65d-71f0f3a8601b",
+            "price": 108.1,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "d39772a2-15cb-4e2b-8618-4404a6584185",
+            "price": 138.28,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "ec475454-a700-4b3d-b210-209db484d2e4",
+            "price": 20.82,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "57edabcf-9495-472e-8899-6030b146f672",
+            "price": 86.44,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "6c06a9f3-80f4-47fd-97a1-f1db3dad854f",
+            "price": 100.71,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "2ea5c83e-6497-4b72-afef-e825ffc1b983",
+            "price": 157.74,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "6affb8b9-c672-42b7-9134-e16849c84262",
+            "price": 146.5,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "960b0b35-a4d7-4d95-b6cd-0ce0121a5e2b",
+            "price": 83.8,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "a47b19e2-dbf5-4705-b112-cb076e6ebcbb",
+            "price": 148.1,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "8ce07ccb-cde2-403e-88d7-aef96f711246",
+            "price": 170.01,
+            "event": "Festival",
+            "is_sold": false
+        },
+        {
+            "id": "e668af3c-0e06-4c3b-99a0-24a3a7fdb64c",
+            "price": 112.13,
+            "event": "Festival",
+            "is_sold": true
+        },
+        {
+            "id": "bbfd3f4f-9d86-4078-b482-ab1e23f32811",
+            "price": 105.39,
+            "event": "Festival",
+            "is_sold": true
+        }
+    ]
+}
