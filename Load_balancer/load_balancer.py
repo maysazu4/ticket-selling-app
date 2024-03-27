@@ -1,5 +1,5 @@
-from request_stream import RequestGenerator
-from server_stream import generate_servers
+from request_stream.request_stream import RequestGenerator
+from server.server_stream import generate_servers
 
 class LoadBalancer:
     def __init__(self, event_generator):
