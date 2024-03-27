@@ -143,6 +143,7 @@ myenv
 .mypy_cache/
 .dmypy.json
 dmypy.json
+database\tickets.json
 
 # Pyre type checker
 .pyre/
