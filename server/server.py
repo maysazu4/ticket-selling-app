@@ -1,6 +1,6 @@
 import json
 import time
-import file_handler as f
+import File_handler.file_handler as f
 
 class Server:
     def __init__(self, tickets_file, max_requests_per_time=5, requests_threshold_delay=2, max_concurrent_requests=3):
