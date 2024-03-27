@@ -1,4 +1,4 @@
-from server import *
+from server.server import *
 import random
 
 
