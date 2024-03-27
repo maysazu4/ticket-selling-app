@@ -5,6 +5,15 @@ import File_handler.file_handler as f
 
 class Server:
     def __init__(self, tickets_file, max_requests_per_time=5, requests_threshold_delay=2, max_concurrent_requests=3):
+        """
+        Initialize a Server instance.
+
+        Args:
+            tickets_file (str): The file path of the tickets file.
+            max_requests_per_time (int): The maximum number of requests allowed per time unit.
+            requests_threshold_delay (int): The delay in seconds when the server is overloaded.
+            max_concurrent_requests (int): The maximum number of concurrent requests allowed.
+        """
         with open(tickets_file, 'r') as f:
             self.tickets_db = json.load(f)
         self.tickets_file_path = tickets_file
@@ -16,6 +25,15 @@ class Server:
         self.current_concurrent_requests = 0
 
     def sell_ticket(self, event):
+        """
+        Sell a ticket for the specified event.
+
+        Args:
+            event (str): The name of the event.
+
+        Returns:
+            bool: True if the ticket is sold successfully, False otherwise.
+        """
         self.tickets_db = f.load_tickets(self.tickets_file_path)
         if event not in self.tickets_db or len(self.tickets_db[event]) <= 0:
             print(f"No tickets available for {event}.")
@@ -29,12 +47,21 @@ class Server:
         return True
 
     def show_unsold_tickets(self):
+        """
+        Show the list of unsold tickets.
+        """
         print("Unsold tickets:")
         for event, tickets in self.tickets_db.items():
             if tickets > 0:
                 print(f"{event}: {tickets} tickets available.")
 
     def process_request(self, event):
+        """
+        Process a request for the specified event.
+
+        Args:
+            event (str): The name of the event.
+        """
         # Check if the number of requests exceeds the threshold
         self.requests_count += 1
         if self.requests_count > self.max_requests_per_time:
