@@ -40,5 +40,5 @@ Aya abbas + Maysa Zbidat
 we worked together during the zoom meeting by sharing the screen and disccusing and thinking together,
 and each one pushed her code to github. 
 
-![Flowchart](ticket-selling-app/flowchart.png)
+![Flowchart](flowchart.png)
 
