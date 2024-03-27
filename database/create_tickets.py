@@ -1,29 +1,29 @@
 import json
 import random
 import uuid
-# Create a dictionary to store tickets by event type
-organized_tickets = {
-    "Concert": [],
-    "Sports Game": [],
-    "Theater Show": [],
-    "Movie Premiere": []
-}
 
 
-# Generate tickets and add them to the appropriate event type
-for _ in range(500):
-    event_type = random.choice(list(organized_tickets.keys()))
-    
-    ticket = {
-        "id": str(uuid.uuid4()),
-        "price": round(random.uniform(20, 200), 2),
-        "event": event_type,
-        "is_sold": False
+def create_tickets():
+    # Create a dictionary to store tickets by event type
+    organized_tickets = {
+        "Concert": [],
+        "Sports Game": [],
+        "Theater Show": [],
+        "Movie Premiere": []
     }
-    organized_tickets[event_type].append(ticket)
 
-# Write organized tickets to a JSON file
-with open("database/tickets.json", "w") as file:
-    json.dump(organized_tickets, file, indent=4)
+    # Generate tickets and add them to the appropriate event type
+    for _ in range(500):
+        event_type = random.choice(list(organized_tickets.keys()))
 
-print("Tickets have been created and saved to 'tickets.json'.")
+        ticket = {
+            "id": str(uuid.uuid4()),
+            "price": round(random.uniform(20, 200), 2),
+            "event": event_type,
+            "is_sold": False
+        }
+        organized_tickets[event_type].append(ticket)
+
+    # Write organized tickets to a JSON file
+    with open("database/tickets.json", "w") as file:
+        json.dump(organized_tickets, file, indent=4)
