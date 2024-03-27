@@ -871,42 +871,6 @@
             "price": 71.71,
             "event": "Sports Game",
             "is_sold": false
-        },
-        {
-            "id": "4c13a4f9-1684-48e0-af58-b46626b8b8c9",
-            "price": 155.46,
-            "event": "Sports Game",
-            "is_sold": false
-        },
-        {
-            "id": "6655ad0a-9fe6-45c6-ba4a-8da61f9c3efa",
-            "price": 150.56,
-            "event": "Sports Game",
-            "is_sold": false
-        },
-        {
-            "id": "35eb5cfe-6cdf-4c33-8b33-097f7c33d717",
-            "price": 120.61,
-            "event": "Sports Game",
-            "is_sold": false
-        },
-        {
-            "id": "e475ddf4-6516-4247-b40a-7d6923a5437b",
-            "price": 190.96,
-            "event": "Sports Game",
-            "is_sold": false
-        },
-        {
-            "id": "8ba672b3-645f-4fc7-908e-0c24a9c7714e",
-            "price": 178.82,
-            "event": "Sports Game",
-            "is_sold": false
-        },
-        {
-            "id": "d8ed8742-4ef6-4bfa-bb02-9f85ec27fc29",
-            "price": 74.41,
-            "event": "Sports Game",
-            "is_sold": false
         }
     ],
     "Theater Show": [
@@ -2283,36 +2247,6 @@
         {
             "id": "9ca96b90-8441-4704-b0c9-dc759cc935e4",
             "price": 95.19,
-            "event": "Movie Premiere",
-            "is_sold": false
-        },
-        {
-            "id": "4da18a94-5c23-41b7-9e33-ddafd75b63fa",
-            "price": 173.35,
-            "event": "Movie Premiere",
-            "is_sold": false
-        },
-        {
-            "id": "d0def2a9-0820-471c-bb1c-5720909270d8",
-            "price": 117.73,
-            "event": "Movie Premiere",
-            "is_sold": false
-        },
-        {
-            "id": "6e81af15-4f06-43b8-9ee2-95be626bd5c4",
-            "price": 82.12,
-            "event": "Movie Premiere",
-            "is_sold": false
-        },
-        {
-            "id": "b690ad42-3a4c-4de7-9e94-47569ba10bd7",
-            "price": 194.48,
-            "event": "Movie Premiere",
-            "is_sold": false
-        },
-        {
-            "id": "5259c15e-8660-44c0-b07f-24200df9a628",
-            "price": 101.33,
             "event": "Movie Premiere",
             "is_sold": false
         }

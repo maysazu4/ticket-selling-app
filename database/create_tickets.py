@@ -23,7 +23,7 @@ for _ in range(500):
     organized_tickets[event_type].append(ticket)
 
 # Write organized tickets to a JSON file
-with open("tickets.json", "w") as file:
+with open("database/tickets.json", "w") as file:
     json.dump(organized_tickets, file, indent=4)
 
 print("Tickets have been created and saved to 'tickets.json'.")

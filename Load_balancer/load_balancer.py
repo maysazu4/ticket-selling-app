@@ -2,9 +2,9 @@ from request_stream.request_stream import RequestGenerator
 from server.server_stream import generate_servers
 
 class LoadBalancer:
-    def __init__(self, event_generator):
+    def __init__(self, event_generator,servers):
         self.event_generator = event_generator
-        self.servers = generate_servers(5)
+        self.servers = servers
 
     def get_Least_Connections_server(self):
         min_curr_req = self.servers[0].requests_count
@@ -26,10 +26,3 @@ class LoadBalancer:
             server = self.get_Least_Connections_server()
             server.sell_ticket(event['event'])
             server.process_request(event['event'])
-        
-
-# Example usage:
-if __name__ == "__main__":
-    request_generator = RequestGenerator()
-    load_balancer = LoadBalancer(request_generator)
-    load_balancer.process_events()
