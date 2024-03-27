@@ -10,20 +10,21 @@ This repository contains the code and configuration files for implementing a loa
 
 The load balancing system consists of the following components:
 
-1. **Load Balancer**: Routes incoming traffic across multiple server instances based on predefined algorithms (e.g., round-robin, least connections).
+1. **Load Balancer**: Directs incoming traffic across multiple server instances based on least connections algorithm.
 2. **Server Instances**: Multiple server instances are deployed to handle incoming requests. These instances are configured identically and can scale horizontally based on traffic patterns.
-3. **Monitoring and Auto-Scaling**: Monitors server health and performance metrics and dynamically adjusts the number of server instances using auto-scaling mechanisms.
 
 ### Data Consistency
+we chose to use **strong consistency**.
 
-To ensure data consistency across servers, the following components are implemented:
+To ensure data consistency across servers, we need to implement the following components:
 
-1. **Database Replication**: Utilizes master-slave replication with synchronous replication for critical data and asynchronous replication for non-critical data.
-2. **Distributed Locks**: Manages concurrent writes using distributed locks or consensus algorithms to maintain data integrity across database replicas.
-3. **Monitoring and Backup**: Regularly monitors database replication status, backups data, and implements disaster recovery mechanisms to recover from database failures.
+1. **Database update**: if we are not changing the database we should update the database synchronicly.But if we can change the database so that each event data is in seperated file, then we can use asynchronous update but just for different files(events).
+2. **Distributed Locks**: Manages concurrent writes using distributed locks to maintain data integrity across database update.
+If the database remain unchanged we lock the database each time we enter the sell ticket function. If we changes the database to seperated events, each event data in different file, we lock the specific file, this way we allow concurent tickets selling for different events.
 
-## Contributing
-
-Contributions to the ticket-selling platform load balancing and data consistency system are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request with your changes.
+## Work team
+Aya abbas + Maysa Zbidat
+we worked together during the zoom meeting by sharing the screen and disccusing and thinking together,
+and each one pushed her code to github. 
 
 
