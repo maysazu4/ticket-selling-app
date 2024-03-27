@@ -17,9 +17,3 @@ class RequestGenerator:
                 yield {"timestamp": timestamp, "tickets": tickets, "event": event}
             time.sleep(random.uniform(*self.time_range))
 
-# Example usage:
-if __name__ == "__main__":
-    request_generator = RequestGenerator()
-
-    for event in request_generator.generate_events():
-        print("Generated ticket sale request:", event)
