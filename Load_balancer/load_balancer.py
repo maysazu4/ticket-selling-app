@@ -1,3 +1,6 @@
+### good doc for the fns. great maintainability
+### good implementation. good explenation for your decisions.
+### good modularity and organization. excelent code. top notch
 from request_stream.request_stream import RequestGenerator
 
 class LoadBalancer:
